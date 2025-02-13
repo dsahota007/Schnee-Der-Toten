@@ -1,0 +1,262 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tajin\\Desktop\\1BitGameJam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C5AFBCD-82B7-9D4B-2475-12E5BF450255}|Assembly-CSharp.csproj|C:\\Users\\tajin\\Desktop\\1BitGameJam\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C5AFBCD-82B7-9D4B-2475-12E5BF450255}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C5AFBCD-82B7-9D4B-2475-12E5BF450255}|Assembly-CSharp.csproj|c:\\users\\tajin\\desktop\\1bitgamejam\\assets\\scripts\\pausemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C5AFBCD-82B7-9D4B-2475-12E5BF450255}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pausemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C5AFBCD-82B7-9D4B-2475-12E5BF450255}|Assembly-CSharp.csproj|C:\\Users\\tajin\\Desktop\\1BitGameJam\\assets\\scripts\\ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C5AFBCD-82B7-9D4B-2475-12E5BF450255}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C5AFBCD-82B7-9D4B-2475-12E5BF450255}|Assembly-CSharp.csproj|C:\\Users\\tajin\\Desktop\\1BitGameJam\\assets\\scripts\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C5AFBCD-82B7-9D4B-2475-12E5BF450255}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C5AFBCD-82B7-9D4B-2475-12E5BF450255}|Assembly-CSharp.csproj|C:\\Users\\tajin\\Desktop\\1BitGameJam\\assets\\blackwhiteshader.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{2C5AFBCD-82B7-9D4B-2475-12E5BF450255}|Assembly-CSharp.csproj|solutionrelative:assets\\blackwhiteshader.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C5AFBCD-82B7-9D4B-2475-12E5BF450255}|Assembly-CSharp.csproj|C:\\Users\\tajin\\Desktop\\1BitGameJam\\assets\\scripts\\menumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C5AFBCD-82B7-9D4B-2475-12E5BF450255}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C5AFBCD-82B7-9D4B-2475-12E5BF450255}|Assembly-CSharp.csproj|C:\\Users\\tajin\\Desktop\\1BitGameJam\\assets\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C5AFBCD-82B7-9D4B-2475-12E5BF450255}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C5AFBCD-82B7-9D4B-2475-12E5BF450255}|Assembly-CSharp.csproj|C:\\Users\\tajin\\Desktop\\1BitGameJam\\assets\\scripts\\batenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C5AFBCD-82B7-9D4B-2475-12E5BF450255}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\batenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C5AFBCD-82B7-9D4B-2475-12E5BF450255}|Assembly-CSharp.csproj|C:\\Users\\tajin\\Desktop\\1BitGameJam\\assets\\scripts\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C5AFBCD-82B7-9D4B-2475-12E5BF450255}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C5AFBCD-82B7-9D4B-2475-12E5BF450255}|Assembly-CSharp.csproj|C:\\Users\\tajin\\Desktop\\1BitGameJam\\assets\\scripts\\deathscreenui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C5AFBCD-82B7-9D4B-2475-12E5BF450255}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\deathscreenui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C5AFBCD-82B7-9D4B-2475-12E5BF450255}|Assembly-CSharp.csproj|C:\\Users\\tajin\\Desktop\\1BitGameJam\\assets\\scripts\\mousecursormanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C5AFBCD-82B7-9D4B-2475-12E5BF450255}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mousecursormanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C5AFBCD-82B7-9D4B-2475-12E5BF450255}|Assembly-CSharp.csproj|C:\\Users\\tajin\\Desktop\\1BitGameJam\\assets\\scripts\\deathscreenmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C5AFBCD-82B7-9D4B-2475-12E5BF450255}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\deathscreenmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C5AFBCD-82B7-9D4B-2475-12E5BF450255}|Assembly-CSharp.csproj|C:\\Users\\tajin\\Desktop\\1BitGameJam\\assets\\scripts\\wavespawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C5AFBCD-82B7-9D4B-2475-12E5BF450255}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\wavespawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C5AFBCD-82B7-9D4B-2475-12E5BF450255}|Assembly-CSharp.csproj|C:\\Users\\tajin\\Desktop\\1BitGameJam\\assets\\scripts\\playershooting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C5AFBCD-82B7-9D4B-2475-12E5BF450255}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playershooting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C5AFBCD-82B7-9D4B-2475-12E5BF450255}|Assembly-CSharp.csproj|C:\\Users\\tajin\\Desktop\\1BitGameJam\\assets\\scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C5AFBCD-82B7-9D4B-2475-12E5BF450255}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DeathScreenManager.cs",
+              "DocumentMoniker": "C:\\Users\\tajin\\Desktop\\1BitGameJam\\Assets\\Scripts\\DeathScreenManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DeathScreenManager.cs",
+              "ToolTip": "C:\\Users\\tajin\\Desktop\\1BitGameJam\\Assets\\Scripts\\DeathScreenManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DeathScreenManager.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T20:50:34.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DeathScreenUI.cs",
+              "DocumentMoniker": "C:\\Users\\tajin\\Desktop\\1BitGameJam\\Assets\\Scripts\\DeathScreenUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DeathScreenUI.cs",
+              "ToolTip": "C:\\Users\\tajin\\Desktop\\1BitGameJam\\Assets\\Scripts\\DeathScreenUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DeathScreenUI.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T18:41:08.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UI.cs",
+              "DocumentMoniker": "C:\\Users\\tajin\\Desktop\\1BitGameJam\\Assets\\Scripts\\UI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI.cs",
+              "ToolTip": "C:\\Users\\tajin\\Desktop\\1BitGameJam\\Assets\\Scripts\\UI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwDgAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T07:25:39.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MenuManager.cs",
+              "DocumentMoniker": "C:\\Users\\tajin\\Desktop\\1BitGameJam\\Assets\\Scripts\\MenuManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MenuManager.cs",
+              "ToolTip": "C:\\Users\\tajin\\Desktop\\1BitGameJam\\Assets\\Scripts\\MenuManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MenuManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T18:24:45.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PauseManager.cs",
+              "DocumentMoniker": "C:\\Users\\tajin\\Desktop\\1BitGameJam\\Assets\\Scripts\\PauseManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PauseManager.cs",
+              "ToolTip": "C:\\Users\\tajin\\Desktop\\1BitGameJam\\Assets\\Scripts\\PauseManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PauseManager.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAcwD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T18:03:47.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PlayerHealth.cs",
+              "DocumentMoniker": "C:\\Users\\tajin\\Desktop\\1BitGameJam\\Assets\\Scripts\\PlayerHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerHealth.cs",
+              "ToolTip": "C:\\Users\\tajin\\Desktop\\1BitGameJam\\Assets\\Scripts\\PlayerHealth.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerHealth.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T07:59:42.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "C:\\Users\\tajin\\Desktop\\1BitGameJam\\Assets\\Scripts\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy.cs",
+              "ToolTip": "C:\\Users\\tajin\\Desktop\\1BitGameJam\\Assets\\Scripts\\Enemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAALMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T00:15:50.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BatEnemy.cs",
+              "DocumentMoniker": "C:\\Users\\tajin\\Desktop\\1BitGameJam\\Assets\\Scripts\\BatEnemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BatEnemy.cs",
+              "ToolTip": "C:\\Users\\tajin\\Desktop\\1BitGameJam\\Assets\\Scripts\\BatEnemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BatEnemy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T03:08:51.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "C:\\Users\\tajin\\Desktop\\1BitGameJam\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
+              "ToolTip": "C:\\Users\\tajin\\Desktop\\1BitGameJam\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAQwDoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T20:42:54.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MouseCursorManager.cs",
+              "DocumentMoniker": "C:\\Users\\tajin\\Desktop\\1BitGameJam\\Assets\\Scripts\\MouseCursorManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MouseCursorManager.cs",
+              "ToolTip": "C:\\Users\\tajin\\Desktop\\1BitGameJam\\Assets\\Scripts\\MouseCursorManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MouseCursorManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T02:57:06.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BlackWhiteShader.shader",
+              "DocumentMoniker": "C:\\Users\\tajin\\Desktop\\1BitGameJam\\Assets\\BlackWhiteShader.shader",
+              "RelativeDocumentMoniker": "Assets\\BlackWhiteShader.shader",
+              "ToolTip": "C:\\Users\\tajin\\Desktop\\1BitGameJam\\Assets\\BlackWhiteShader.shader",
+              "RelativeToolTip": "Assets\\BlackWhiteShader.shader",
+              "ViewState": "AQIAAAYAAAAAAAAAAADwvzQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2025-02-08T09:05:51.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AudioManager.cs",
+              "DocumentMoniker": "C:\\Users\\tajin\\Desktop\\1BitGameJam\\Assets\\Scripts\\AudioManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AudioManager.cs",
+              "ToolTip": "C:\\Users\\tajin\\Desktop\\1BitGameJam\\Assets\\Scripts\\AudioManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AudioManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAgwAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T11:12:35.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WaveSpawner.cs",
+              "DocumentMoniker": "C:\\Users\\tajin\\Desktop\\1BitGameJam\\Assets\\Scripts\\WaveSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\WaveSpawner.cs",
+              "ToolTip": "C:\\Users\\tajin\\Desktop\\1BitGameJam\\Assets\\Scripts\\WaveSpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\WaveSpawner.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAwwGgAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T05:58:02.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "C:\\Users\\tajin\\Desktop\\1BitGameJam\\Assets\\Scripts\\Bullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Bullet.cs",
+              "ToolTip": "C:\\Users\\tajin\\Desktop\\1BitGameJam\\Assets\\Scripts\\Bullet.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Bullet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T22:56:34.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PlayerShooting.cs",
+              "DocumentMoniker": "C:\\Users\\tajin\\Desktop\\1BitGameJam\\Assets\\Scripts\\PlayerShooting.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerShooting.cs",
+              "ToolTip": "C:\\Users\\tajin\\Desktop\\1BitGameJam\\Assets\\Scripts\\PlayerShooting.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerShooting.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T18:51:56.45Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
